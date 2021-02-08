@@ -6,8 +6,11 @@ body {
   margin: auto;
 }
 .wrapper {
-  margin-top: 30px;
+  margin-top: 0px;
+}
+.right{
+  float: right;
 }
 .banner-image{
-  max-height: 450px;
+  max-height: 100vh;
 }
